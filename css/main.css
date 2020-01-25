@@ -1,0 +1,56 @@
+
+h1 {
+  display: block;
+  font-size: 2.5em;
+  text-align: center;
+}
+
+
+
+h2 {
+  display: block;
+  font-size: 30px;
+  text-align: center;
+}
+
+
+h3 {
+  display: block;
+  background-color: #828181;
+  font-size: 2em;
+  text-align: center;
+  color: white;
+}
+
+p {
+  margin: 2em;
+  display: block;
+  font-size: 1.5em;
+  text-align: center;
+}
+
+.img-wrapper {
+  display: inline-block;
+  width: 300px;
+  height: 300px;
+  padding: 20px; }
+
+.img-wrapper img { width: 100%; }
+
+.black-bg { background-color: white;}
+
+
+/* change the SVG graphic artwork with CSS! */
+
+#right_wing:hover, #right_wing_bottom:hover { fill: red; }
+
+
+#swan:hover #right_wing { fill: white; }
+#swan:hover #right_wing_bottom { fill: white; }
+#swan:hover #neck { fill: white; }
+#swan:hover #tail { fill: white; }
+#swan:hover #body { fill: white; }
+#swan:hover #left_wing { fill: white; }
+#swan:hover #head { fill: white; }
+
+#cat:hover { background-color: #FBB03B; }

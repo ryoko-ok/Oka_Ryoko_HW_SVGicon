@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 23.0.4, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="elephant" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 300 300" style="enable-background:new 0 0 300 300;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#8CC63F;stroke:#FFFFFF;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;}
+	.st1{fill:#B6D37F;stroke:#FFFFFF;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;}
+	.st2{fill:#D7EAB9;stroke:#FFFFFF;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;}
+
+	#elephant { cursor: pointer; }
+
+	#elephant:hover #left_hand { fill: #B6D37F; }
+	#elephant:hover #nose { fill: #B6D37F; }
+	#elephant:hover #body { fill: #B6D37F; }
+	#elephant:hover #rigth_hand { fill: #B6D37F; }
+	#elephant:hover #face { fill: #B6D37F; }
+	#elephant:hover #foot { fill: #B6D37F; }
+	#elephant:hover #ear_top { fill: #B6D37F; }
+	#elephant:hover #ear_bottom { fill: #B6D37F; }
+
+
+	#elephant:hover { background-color: #B6D37F; }
+
+
+</style>
+<polygon id="left_hand" class="st0" points="204.8,254.9 179.8,254.9 185,131.6 "/>
+<polygon id="nose" class="st0" points="265.9,156.7 291,94.5 273.2,77.3 247.7,106.2 "/>
+<polygon id="body" class="st0" points="53.9,84.6 9,118 9,221.4 68.5,264.3 113.4,224.6 113.4,120.1 "/>
+<polygon id="rigth_hand" class="st1" points="94.4,105.3 34.3,136 28,157.9 157.3,267.6 189.2,267.6 189.2,142.3 189.2,136 "/>
+<polygon id="face" class="st1" points="176.1,32.4 228.3,52.2 265.9,156.7 185.5,148.4 "/>
+<polygon id="foot" class="st2" points="68.5,264.3 9,264.3 9,221.4 "/>
+<polygon id="ear_top" class="st2" points="53.9,84.6 176.1,32.4 185.5,148.4 "/>
+<polygon id="ear_bottom" class="st2" points="185.5,148.4 53.9,84.6 77.5,181 "/>
+</svg>

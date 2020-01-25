@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 23.0.4, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="whale" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 300 300" style="enable-background:new 0 0 300 300;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#808080;stroke:#FFFFFF;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;}
+	.st1{fill:#B3B3B3;stroke:#FFFFFF;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;}
+	.st2{fill:#4D4D4D;stroke:#FFFFFF;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;}
+
+	#whale { cursor: pointer; }
+
+	#whale:hover #tail_bottom { fill: #808080; }
+	#whale:hover #body_up { fill: #808080; }
+	#whale:hover #face { fill: #808080; }
+	#whale:hover #body { fill: #808080; }
+	#whale:hover #tail_left { fill: #808080; }
+	#whale:hover #hand { fill: #808080; }
+	#whale:hover #tail_right { fill: #808080; }
+	#whale:hover #horn { fill: #808080; }
+	#whale:hover #body_up_line { fill: #808080; }
+
+
+	#whale:hover { background-color: #808080; }
+
+
+</style>
+<polygon id="tail_bottom" class="st0" points="66.5,141.9 108.3,180.7 80.2,207.9 38.8,154.2 "/>
+<polygon id="body_up" class="st0" points="195.3,101 232.8,101 295.5,178.9 295.5,221.6 192.4,221.6 "/>
+<polygon id="face" class="st1" points="227,194.1 273.5,148.8 295.5,178.9 295.5,221.6 234.6,221.6 "/>
+<polygon id="body" class="st1" points="192.4,221.6 86,221.6 70.9,201.8 185.8,97.2 197.2,97.2 "/>
+<polygon id="tail_left" class="st1" points="74.3,145.6 23.8,145.6 2,177 18.1,186 "/>
+<polygon id="hand" class="st1" points="169,207.9 134.7,232 130.2,265.9 205.8,220.5 "/>
+<polygon id="tail_right" class="st2" points="74.3,145.6 30.6,99.1 30.6,145.6 "/>
+<polygon id="horn" class="st2" points="234.6,221.6 253.6,202.7 227,194.1 "/>
+<polygon id="body_up_line" class="st2" points="256.6,165.2 196.6,136.3 194.3,168.9 227,194.1 "/>
+</svg>

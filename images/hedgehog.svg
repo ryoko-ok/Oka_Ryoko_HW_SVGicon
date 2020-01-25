@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 23.0.4, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="hedgehog" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 300 300" style="enable-background:new 0 0 300 300;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#EA7387;stroke:#FFFFFF;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;}
+	.st1{fill:#F4BAC6;stroke:#FFFFFF;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;}
+	.st2{fill:#E82147;stroke:#FFFFFF;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;}
+
+	#hedgehog { cursor: pointer; }
+
+	#hedgehog:hover { fill: #EA7387; }
+	#hedgehog:hover #bottom_middle_quill { fill: #EA7387; }
+	#hedgehog:hover #bottom_first_quill { fill: #EA7387; }
+	#hedgehog:hover #chest { fill: #EA7387; }
+	#hedgehog:hover #face { fill: #EA7387; }
+	#hedgehog:hover #quills_second_last { fill: #EA7387; }
+	#hedgehog:hover #qulls_last { fill: #EA7387; }
+	#hedgehog:hover #nose { fill: #EA7387; }
+	#hedgehog:hover #quills_second_first { fill: #EA7387; }
+	#hedgehog:hover #quills_middle { fill: #EA7387; }
+	#hedgehog:hover #bottom_second_quill { fill: #EA7387; }
+	#hedgehog:hover #back { fill: #EA7387; }
+	#hedgehog:hover #butt { fill: #EA7387; }
+	#hedgehog:hover #leg { fill: #EA7387; }
+
+	#hedgehog:hover { background-color: #EA7387; }
+</style>
+<polygon id="quills_first" class="st0" points="224.1,88.9 211.1,60.5 178.6,88.9 "/>
+<polygon id="bottom_middle_quill" class="st1" points="93.1,85.5 142.7,70 147.1,130.4 105.6,135.3 "/>
+<polygon id="bottom_first_quill" class="st1" points="224.1,88.9 211.7,124.7 176.1,128.2 179.7,87.8 "/>
+<polygon id="chest" class="st1" points="124.9,239.7 188,238.1 218.3,132.7 211.7,124.7 123.3,233.2 "/>
+<polygon id="face" class="st1" points="217.5,135.3 281.1,233.2 189.4,233.2 "/>
+<polygon id="quills_second_last" class="st2" points="89.7,89.5 41.9,62 62.4,124.7 "/>
+<polygon id="qulls_last" class="st2" points="62.4,124.7 14.9,119.5 39.7,152.9 "/>
+<polygon id="leg" class="st2" points="188,238.1 188,264.5 164.2,238.7 "/>
+<polygon id="nose" class="st2" points="281.1,233.2 285.1,220.5 275.8,213.2 270.5,216.9 "/>
+<polygon id="quills_second_first" class="st2" points="200.3,70 153.8,35.5 142.7,70 179.7,87.8 "/>
+<polygon id="quills_middle" class="st2" points="142.7,70 81.5,35.5 95.9,85.5 "/>
+<polygon id="bottom_second_quill" class="st0" points="142.7,70 179.7,87.8 176.1,128.2 147.1,130.4 "/>
+<polygon id="back" class="st0" points="105.6,135.3 211.7,124.7 123.3,233.2 "/>
+<polygon id="butt" class="st0" points="93.1,85.5 31.9,163.5 53.1,208.5 134.8,251.3 "/>
+</svg>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 23.0.4, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="cat" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 300 300" style="enable-background:new 0 0 300 300;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#F15A24;stroke:#FFFFFF;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;}
+	.st1{fill:#F7931E;stroke:#FFFFFF;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;}
+	.st2{fill:#FBB03B;stroke:#FFFFFF;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;}
+
+	#cat { cursor: pointer; }
+
+	#cat:hover #chin { fill: #FBB03B; }
+	#cat:hover #body_right { fill: #FBB03B; }
+	#cat:hover #tail_bottom { fill: #FBB03B; }
+	#cat:hover #ear_left { fill: #FBB03B; }
+	#cat:hover #ear_right { fill: #FBB03B; }
+	#cat:hover #body_left { fill: #FBB03B; }
+	#cat:hover #tail_long { fill: #FBB03B; }
+	#cat:hover #face { fill: #FBB03B; }
+	#cat:hover #body_center { fill: #FBB03B; }
+	#cat:hover #tail_top { fill: #FBB03B; }
+
+
+	#cat:hover { background-color: #FBB03B; }
+
+</style>
+<polygon id="chin" class="st0" points="152.3,39 212.8,39 249.3,78.9 192.2,145.1 120.3,78.9 "/>
+<polygon id="body_right" class="st0" points="219.2,113.8 241.3,247.8 224.2,293 206.4,128.6 "/>
+<polygon id="tail_bottom" class="st0" points="120.3,238.5 96.3,217 89.5,227.8 109.8,272.5 "/>
+<polygon id="ear_left" class="st1" points="152.3,39 120.3,7 120.3,78.9 "/>
+<polygon id="ear_right" class="st1" points="212.8,43 241.3,7 249.3,78.9 "/>
+<polygon id="body_left" class="st1" points="158.8,113.8 109.8,272.5 148.6,293 174.9,128.6 "/>
+<polygon id="tail_long" class="st1" points="96.3,217 66.4,107.4 54.1,107.4 89.5,227.8 "/>
+<polygon id="face" class="st2" points="152.3,39 212.8,39 249.3,78.9 192.2,130.3 120.3,78.9 "/>
+<polygon id="body_center" class="st2" points="174.9,128.6 148.6,293 224.2,293 206.4,128.6 192.2,145.1 "/>
+<polygon id="tail_top" class="st2" points="54.1,107.4 26.7,130.3 60.8,130.3 "/>
+</svg>

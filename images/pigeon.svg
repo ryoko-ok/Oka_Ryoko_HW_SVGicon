@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 23.0.4, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="pigeon" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 300 300" style="enable-background:new 0 0 300 300;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#662D91;stroke:#FFFFFF;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;}
+	.st1{fill:#9A67C6;stroke:#FFFFFF;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;}
+	.st2{fill:#C7B4D8;stroke:#FFFFFF;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;}
+
+	#pigeon { cursor: pointer; }
+
+	#pigeon:hover #wing_deep_top { fill: #9A67C6; }
+	#pigeon:hover #tail_deep { fill: #9A67C6; }
+	#pigeon:hover #body_deep { fill: #9A67C6; }
+	#pigeon:hover #wing_deep { fill: #9A67C6; }
+	#pigeon:hover #wing_front_hand { fill: #9A67C6; }
+	#pigeon:hover #tail_front { fill: #9A67C6; }
+	#pigeon:hover #beak { fill: #9A67C6; }
+	#pigeon:hover #wing_front { fill: #9A67C6; }
+	#pigeon:hover #tummy { fill: #9A67C6; }
+	#pigeon:hover #face { fill: #9A67C6; }
+
+
+	#pigeon:hover { background-color: #9A67C6; }
+
+</style>
+<polygon id="wing_deep_top" class="st0" points="192.6,54.3 208.3,69.2 186.9,71.6 "/>
+<polygon id="tail_deep" class="st0" points="253.7,183.6 189.8,172.4 169.7,183.6 "/>
+<polygon id="body_deep" class="st0" points="37.8,105.1 30,195 109.1,244 40.4,191.6 "/>
+<polygon id="wing_deep" class="st1" points="98.4,131 144.6,58.3 192.6,54.3 160.4,143.9 "/>
+<polygon id="wing_front_hand" class="st2" points="197.6,78.3 293,114.3 169.7,183.6 "/>
+<polygon id="tail_front" class="st1" points="169.7,183.6 253.7,183.6 191.1,245.6 109.1,244 "/>
+<polygon id="beak" class="st0" points="22.2,105.1 37.1,83.6 37.8,105.1 "/>
+<polygon id="wing_front" class="st1" points="98.4,131 197.6,78.3 169.7,183.6 "/>
+<polygon id="tummy" class="st2" points="109.1,244 40.4,191.6 98.4,131 169.7,183.6 "/>
+<polygon id="face" class="st1" points="98.4,131 90.2,103.8 37.1,83.6 40.4,191.6 "/>
+</svg>

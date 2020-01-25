@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 23.0.4, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="swan" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 300 300" style="enable-background:new 0 0 300 300;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#FF9FCF;stroke:#FFFFFF;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;}
+	.st1{fill:#FF7BAC;stroke:#FFFFFF;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;}
+	.st2{fill:#FFDCEC;stroke:#FFFFFF;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;}
+
+	#swan { cursor: pointer; }
+
+	#swan:hover #swan_body { fill: #FF9FCF; }
+
+	#swan:hover { background-color: #FF9FCF; }
+
+</style>
+<polygon id="swan_body" class="st0" points="172.2,154.4 126.4,126 8.6,119.9 22.2,190.7 55.5,198.1 126.4,168.4 "/>
+<polygon id="swan_body" class="st1" points="95.6,233.9 55.5,198.1 110.5,172.2 172.2,172.2 120.8,228.2 "/>
+<polygon id="swan_body" class="st1" points="126.4,168.4 84.6,82.1 64.8,74.9 100.6,233.9 "/>
+<polygon id="swan_body" class="st1" points="185.8,182.2 269.8,19.1 209.3,198.1 "/>
+<polygon id="swan_body" class="st0" points="100.6,216.7 126.4,140.1 169.8,140.1 223.5,205.5 201.9,241.4 162.1,216.7 100.6,233.9 "/>
+<polygon id="swan_body" class="st2" points="113.9,200.1 191.5,169.4 240.7,165.3 269.8,190.7 292,279.7 185.8,252.5 126.4,215.5 "/>
+<polygon id="swan_body" class="st2" points="84.6,82.1 64.8,74.9 26.5,154.4 "/>
+</svg>

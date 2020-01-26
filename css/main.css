@@ -38,19 +38,3 @@ p {
 .img-wrapper img { width: 100%; }
 
 .black-bg { background-color: white;}
-
-
-/* change the SVG graphic artwork with CSS! */
-
-#right_wing:hover, #right_wing_bottom:hover { fill: red; }
-
-
-#swan:hover #right_wing { fill: white; }
-#swan:hover #right_wing_bottom { fill: white; }
-#swan:hover #neck { fill: white; }
-#swan:hover #tail { fill: white; }
-#swan:hover #body { fill: white; }
-#swan:hover #left_wing { fill: white; }
-#swan:hover #head { fill: white; }
-
-#cat:hover { background-color: #FBB03B; }
